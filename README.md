@@ -1,0 +1,81 @@
+# ARASHI – TRAP
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I'll get you in the TRAP
+Hey now! 有能ぶるその態度も
+余裕の表情もここまでです
+覚悟決めるのが精一杯
+性能だけは認められても
+出る幕なし
+気が付く間もないさTRAP
+気を抜きゃすぐただのScrap
+さぁさ世界のド真ん中
+突っ切って行け This is a game
+Sooner or Later
+勝負もらったぜ
+目には見えなくても真実さ
+I'll take you down!
+どんなSpeedで逃げようが
+I'll take you down!
+分かるだろう?
+You are in the TRAP
+I'll take you down!
+さあShow Timeの始まりだ
+Believe it or not
+もうそこはin my TRAP
+You wanna cry?
+すでに手遅れさ
+恐れてるなら
+Better watch your back
+I'll take you down!
+Hey now!
+Formatなんて何だっていい
+My styleもってないなら
+ここまでです
+指先ひとつの時代に
+万全を期すSystemなんてない
+Watch out the TRAP!
+Black or White
+今や分からない
+Stuck in that TRAP
+かかってるのはどっちなんだ!?
+I'll take you down!
+どんなPowerを見せようが
+I'll take you down!
+分かるかな?
+You are in the TRAP
+I'll take you down!
+もうShow Timeは終盤さ
+Believe it or not
+もう誰もin my TRAP!
+You're gonna cry
+全て自分次第
+恐くないなら
+Better watch your back
+I'll take you down!
+I'll take you down!
+I'll get you in the TRAP
+Sooner or Later
+世界は知るのさ
+Black or White
+最後に笑うのさ
+目には見えないのが真実さ
+I'll take you down!
+どんなSpeedで逃げようが
+I'll take you down!
+分かるだろう?
+You are in the TRAP
+I'll take you down!
+さあShow Timeの始まりだ
+Believe it or not
+もうそこはin my TRAP
+You wanna cry?
+すでに手遅れさ
+恐れてるなら
+Better watch your back
+I'll take you down! …
+I'll take you down! …
+I'll take you down! …
+```

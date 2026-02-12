@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "TRAP",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-02-12T09:12:23.314618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rat Trap 666",
+      "artist": "Die Antwoord feat. DJ Muggs",
+      "has_synced": true,
+      "path": "select/01_Rat_Trap_666_Die_Antwoord_feat._DJ_Muggs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rat Trap 666 (feat. DJ Muggs)",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/02_Rat_Trap_666_(feat._DJ_Muggs)_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trap Back (feat. Major Nine)",
+      "artist": "Chris Brown feat. Young Thug & Majornine",
+      "has_synced": true,
+      "path": "select/03_Trap_Back_(feat._Major_Nine)_Chris_Brown_feat._Young_Thug_&_Majornine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trap Back (feat. Major Nine)",
+      "artist": "Chris Brown & Young Thug",
+      "has_synced": true,
+      "path": "select/04_Trap_Back_(feat._Major_Nine)_Chris_Brown_&_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Trap",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/05_The_Trap_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trap This Way (This Way)",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/06_Trap_This_Way_(This_Way)_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trap Funk",
+      "artist": "Migos",
+      "has_synced": true,
+      "path": "select/07_Trap_Funk_Migos.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beez In The Trap",
+      "artist": "Nicki Minaj feat. 2 Chainz",
+      "has_synced": true,
+      "path": "select/08_Beez_In_The_Trap_Nicki_Minaj_feat._2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(Love Is) The Tender Trap",
+      "artist": "The Rat Pack",
+      "has_synced": false,
+      "path": "select/09_(Love_Is)_The_Tender_Trap_The_Rat_Pack.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "3M 4K TRAP 1990",
+      "artist": "Deaton Chris Anthony",
+      "has_synced": true,
+      "path": "select/10_3M_4K_TRAP_1990_Deaton_Chris_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's a Trap",
+      "artist": "ASH",
+      "has_synced": false,
+      "path": "select/11_It's_a_Trap_ASH.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Desire is a Trap",
+      "artist": "Bladee feat. Ecco2k",
+      "has_synced": true,
+      "path": "select/12_Desire_is_a_Trap_Bladee_feat._Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Desire is a Trap",
+      "artist": "Bladee & Ecco2k",
+      "has_synced": true,
+      "path": "select/13_Desire_is_a_Trap_Bladee_&_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "January 1st (feat. Jacquees & Trap Boy Freddy)",
+      "artist": "Young Thug feat. Young Stoner Life, Jacquees & Trap Boy Freddy",
+      "has_synced": true,
+      "path": "select/14_January_1st_(feat._Jacquees_&_Trap_Boy_Freddy)_Young_Thug_feat._Young_Stoner_Life,_Jacquees_&_Trap_Boy_Freddy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "January 1St (Feat. Jacquees & Trap Boy Freddy)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/15_January_1St_(Feat._Jacquees_&_Trap_Boy_Freddy)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(Love Is) The Tender Trap",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/16_(Love_Is)_The_Tender_Trap_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Trap Or Die (Jeezy Anthem)",
+      "artist": "Lil Gotit",
+      "has_synced": true,
+      "path": "select/17_Trap_Or_Die_(Jeezy_Anthem)_Lil_Gotit.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "God Said Trap (King Trappy III)",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/18_God_Said_Trap_(King_Trappy_III)_IDK.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Trap",
+      "artist": "Juicy J feat. Gucci Mane & Peewee Longway",
+      "has_synced": false,
+      "path": "select/19_Trap_Juicy_J_feat._Gucci_Mane_&_Peewee_Longway.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TRAP",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_TRAP_嵐.txt"
+    }
+  ]
+}
